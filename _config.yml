@@ -13,15 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Collins Kiptum
+email: collinsrotichia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+Jambo!Thank you for visiting my here.
+I am a proud graduate of Kabarak University with hands-on exposure to telecom infrastructure through my internship at Huawei as an IPRAN Field Engineer. That experience deepened my understanding of high-speed backbone networks, field diagnostics, and scalable network architecture.
+Since then, I’ve been exploring secure cloud deployments using Azure, orchestrating workloads with Kubernetes, and experimenting with AI-driven solutions for threat detection and automation.
+.
+twitter_username: collo_tum
+github_username: CollinsKiptum1
+linkedin_username: collins-kiptum
+discord_username: collinskiptum
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Collins Kiptum"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
