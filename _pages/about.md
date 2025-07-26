@@ -3,6 +3,12 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 🧠 About Me
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm an enthusiastic Network Engineer who takes advantage of open-source network simulators to upskill and grow in the field.
+
+I thrive in roles that require securing networks, managing systems, and staying ahead of cyber threats. My interests lie in **ethical hacking**, **threat detection**, and learning how attackers think — so I can stop them before they act.
+
+Currently, I’m building a strong foundation in **Cloud Security** and **real-world incident response**. A key part of my journey is hands-on practice in platforms like **TryHackMe**.
+
+Outside of tech, I enjoy nature walks and hanging out with friends — especially at karaoke nights for a fun reset. 🎶🌿
