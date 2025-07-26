@@ -26,7 +26,7 @@ plugins:
   - jekyll-include-cache
 author:
   name: Collins Kiptum
-  avatar: /assets/images/bio-photo.jpg
+  avatar: assets/images/bio-photo.jpg.png
   bio: " Network Engineer | Cloud & Network security | Lifelong Learner | Building
     Secure Systems"
   links:
