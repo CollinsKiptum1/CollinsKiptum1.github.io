@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Collins Kiptum
+email: collinsrotichia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Jambo! I am Collins- an aspiring Network and Cloud Security Engineer blending passion, persistence and hands-on learning.Dive into my projects, my labs and the tools I use to shape the future of secure communication environments.
+twitter_username: collo_tum
+github_username: CollinsKiptum1
+minimal_mistakes_skin: neon 
 search: true
 
 # Build settings
@@ -58,34 +56,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Collins Kiptum"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : " Network Engineer | Cloud & Network security | Lifelong Learner | Building Secure Systems"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/collins-kiptum/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.com/users/1036554785182191627/"
 
 footer:
   links:
+  - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/collins-kiptum/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.com/users/1036554785182191627/"
 
 defaults:
   # _posts
